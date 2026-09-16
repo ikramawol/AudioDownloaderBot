@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.env
+download/
+downloads/
+cache.db
+audio_bot.session
+audio_bot.session-journal
+.git
+.claude
