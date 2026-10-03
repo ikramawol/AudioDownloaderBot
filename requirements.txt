@@ -1,4 +1,4 @@
 pyrogram==2.0.106
-cryptography==1.2.5
+cryptography
 yt-dlp>=2024.1.0
 python-dotenv==1.0.1
